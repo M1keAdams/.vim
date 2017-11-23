@@ -62,3 +62,4 @@ let g:mapleader = ","
 
 " Autoload NERDTree
 autocmd vimenter * NERDTree
+autocmd VimEnter * wincmd p
